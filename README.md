@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
+<img align="center" alt="Coding" width="100%" style="max-height: 200px;" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
 
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate backend developer</h3>
