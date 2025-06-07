@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Daerren Silalahi</h1>
+<h1 align="center">Hi 👋, I'm Samueli</h1>
 <h3 align="center">A passionate backend developer</h3>
 
 - 🔭 I’m currently working on [e-commerce website](https://github.com/Samueldaerren)
